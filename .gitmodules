@@ -4,3 +4,6 @@
 [submodule "Neuro-Linguistic Programming Course"]
 	path = Neuro-Linguistic Programming Course
 	url = https://github.com/fastai/course-nlp.git
+[submodule "Computational Linear Algebra"]
+	path = Computational Linear Algebra
+	url = https://github.com/fastai/numerical-linear-algebra.git
