@@ -1,3 +1,6 @@
 [submodule "Deep Learning, from the Foundations"]
 	path = Deep Learning, from the Foundations
 	url = https://github.com/jamesdellinger/fastai_deep_learning_course_part2_v3.git
+[submodule "Neuro-Linguistic Programming Course"]
+	path = Neuro-Linguistic Programming Course
+	url = https://github.com/fastai/course-nlp.git
