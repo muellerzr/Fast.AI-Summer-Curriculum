@@ -10,5 +10,5 @@ The overall schedule is as follows:
 * 5 Hrs on NLP a week
 * 5 Hrs on From the Foundations a week
 
-Ideally I should finish them all by 8/27/2019, when the Fall Semester starts up at my University.
+Ideally I should finish them all by 8/27/2019, when the Fall Semester starts up at my University, with the Foundational course finishing about a month later.
 
