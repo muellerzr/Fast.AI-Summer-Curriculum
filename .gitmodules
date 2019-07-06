@@ -1,0 +1,3 @@
+[submodule "Deep Learning, from the Foundations"]
+	path = Deep Learning, from the Foundations
+	url = https://github.com/jamesdellinger/fastai_deep_learning_course_part2_v3.git
